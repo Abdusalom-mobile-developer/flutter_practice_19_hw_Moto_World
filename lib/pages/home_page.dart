@@ -21,7 +21,7 @@ class _HomePageState extends State<HomePage> {
               fit: BoxFit.cover)),
       child: Row(
         mainAxisAlignment: MainAxisAlignment.end,
-        crossAxisAlignment: CrossAxisAlignment.start,
+        crossAxisAlignment: CrossAxisAlignment.end,
         children: [
           Icon(
             Icons.favorite,
